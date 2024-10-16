@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PMG Africa - SHEQ Management Experts</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #2c3e50;
+            color: white;
+            text-align: center;
+            padding: 1rem 0;
+        }
+        header h1 {
+            margin: 0;
+        }
+        nav {
+            margin-top: 10px;
+        }
+        nav a {
+            color: #ecf0f1;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        section {
+            padding: 20px;
+            max-width: 900px;
+            margin: 20px auto;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            background-color: #2c3e50;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        .contact {
+            margin-top: 20px;
+        }
+        .contact a {
+            color: #2980b9;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>PMG Africa</h1>
+        <p>Your Partner in Safety, Health, Environmental, and Quality (SHEQ) Management</p>
+        <nav>
+            <a href="#about">About Us</a>
+            <a href="#services">Our Services</a>
+            <a href="#contact">Contact Us</a>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>PMG Africa is a forward-thinking consultancy firm based in Sharpeville, Vereeniging. 
+           We specialize in Safety, Health, Environmental, and Quality (SHEQ) management services 
+           designed to assist businesses in maintaining compliance, improving operational efficiency, 
+           and ensuring a safe working environment for all employees.</p>
+        <p>Our team delivers customized, industry-specific solutions, ensuring clients not only meet 
+           but exceed regulatory standards while minimizing risks. We are committed to fostering a 
+           culture of safety and sustainability for a better future.</p>
+    </section>
+
+    <section id="services">
+        <h2>Our Services</h2>
+        <ul>
+            <li><strong>Health and Safety Audits:</strong> Comprehensive audits to ensure compliance with industry standards and regulations.</li>
+            <li><strong>Safety Compliance Assistance:</strong> Expert advice and support in maintaining compliant safety programs.</li>
+            <li><strong>Environmental Management & Auditing:</strong> Services to minimize environmental impact and integrate sustainable practices.</li>
+            <li><strong>Quality Control & Assurance:</strong> Development and implementation of quality management systems.</li>
+            <li><strong>Training & Development:</strong> Customized training programs to equip staff with essential safety knowledge and skills.</li>
+        </ul>
+    </section>
+
+    <section id="contact" class="contact">
+        <h2>Contact Us</h2>
+        <p><strong>Address:</strong> 5402 Tshepiso Ext1, Sharpeville, Vereeniging, 1928</p>
+        <p><strong>Phone:</strong> <a href="tel:+27638720808">+27 638 720 808</a></p>
+        <p><strong>Email:</strong> <a href="mailto:mphot36@gmail.com">mphot36@gmail.com</a></p>
+    </section>
+
+    <footer>
+        <p>Copyright © 2024 PMG Africa. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
